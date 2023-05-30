@@ -54,8 +54,7 @@ app.post("/", function (req, res) {
   
             res.json(reponeData);
           } catch (error) {
-            // console.error("Error parsing weather data:", error);
-            // res.status(500).json({ error: "Error parsing weather data" });
+        
             res.send("undefined")
           }
         });
