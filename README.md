@@ -10,4 +10,4 @@ and represent these data in a modern and responsive Fronteand that uses Bootstra
 
 Instructions & notes:
 -Make sure to add your key to app.js ,you can get the key by signing up for an account at https://openweathermap.org/.
--you can change the between celsius and Ferhinat by changing the unit variable in app.js .
+-you can switch between celsius and Ferhinat by changing the unit variable in app.js .
